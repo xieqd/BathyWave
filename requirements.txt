@@ -1,0 +1,3 @@
+# Install the PyTorch build appropriate for your device first (README.md).
+torch==2.5.1
+numpy==1.23.5

@@ -1,0 +1,22 @@
+# Track the listed source files only.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/README_zh.md
+!/LICENSE
+!/assets/
+!/assets/fig3.png
+!/requirements.txt
+!/bathywave/
+!/bathywave/__init__.py
+!/bathywave/__main__.py
+!/bathywave/data.py
+!/bathywave/config.py
+!/bathywave/inference.py
+!/bathywave/model.py
+!/bathywave/training.py
+!/bathywave/utils.py
+!/configs/
+!/configs/pretrain.json
+!/configs/finetune.json
